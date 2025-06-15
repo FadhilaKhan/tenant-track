@@ -1,0 +1,79 @@
+{
+   "checksum": "d039912bb510ac04e1a611ba463ba708",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324886829493622",
+            "date_last_used": "0",
+            "guid": "779d9e3f-97d8-47c9-b706-d23d106a6afc",
+            "id": "6",
+            "name": "system analysis .pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Documents/Software/System%20analysis%20and%20design/system%20analysis%20.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13369145079513053",
+            "date_last_used": "0",
+            "guid": "d9d53b27-37e5-49b3-9b63-57f0023da528",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kaamil.docx - Microsoft Word Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onedrive.live.com/edit?action=editnew&id=C09392C48091E31!9754&resid=C09392C48091E31!9754&ithint=file%2cdocx&ct=1724578022681&wdNewAndOpenCt=1724578021307&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=48a8fe93-7e9f-4b68-bb4b-7047f3afc4f0&wdo=2&cid=0c09392c48091e31",
+            "visit_count": 1
+         }, {
+            "date_added": "13384542656773196",
+            "date_last_used": "0",
+            "guid": "80f7a844-8237-4e5c-a611-a62d886dbcae",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://go.microsoft.com/fwlink/?LinkID=2162043",
+            "visit_count": 1
+         } ],
+         "date_added": "13394188401388225",
+         "date_last_used": "0",
+         "date_modified": "13384542656773196",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13394188401388229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13394188401388231",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNdzNCSVAQAAEgAqGDd0NUhLZ0dLampXd01kT1JjUm9vSEE9PUgDoAYHEq0BCAgSqAEKHDY2dGFaYWhyOHlsRkJQaTFEU3lqTTNKc0IrMD0SJDgwZjdhODQ0LTgyMzctNGU1Yy1hNjExLWE2MmQ4ODZkYmNhZRgAIAAoADDW59Gh0jI4vurRodIyQL7q0aHSMkocVk1abTUwcVZ5czdVUkx5MC9peFE4cWhoSjgwPVofIh3acEEyNTA5UnRKVDBKUFYzWVRaeG5pYTlYV2FVPWUAAAAAwj4CYAUSrQEIBxKoAQocbGJrcFB3QVdjRkZEMDQ2bVhUdlVBc3J4WlE4PRIkZDlkNTNiMjctMzdlNS00OWIzLTliNjMtNTdmMDAyM2RhNTI4GAAgACgAMMauufOYMjjssLnzmDJA7LC585gyShxDOHdrUERBT0lwL2RDQ29jbHd6aFBSWE56N289Wh8iHbQ5STZxU1pheHg2cGRQb2xERTVuYXJQNlgxZ0E9ZcHLpcrCPgJgBRKsAQgGEqcBChw2OHNpQWFvSVhMSnYrcUtORW5jcHNYdFplaG89EiQ3NzlkOWUzZi05N2Q4LTQ3YzktYjcwNi1kMjNkMTA2YTZhZmMYACAAKAAw2aC8g/QwOKWhvIP0MEClobyD9DBKHDNvU056M2VtMUlnZlFXcThOeVBuZmFscTIybz1aHiIcaEtYZ3pteEs0eTVFVVp1OUVwVTR2SGFaMUM4PWV3cGyjwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZTNkOWU3NDktMjI4MC01MWYzLWI1MjctMGIxM2YzYzVlZGQ4GAAgACgAMO6u86PyMDi0sfOj8jBAtLHzo/IwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGViZWE4YjE0LTZiMWItNWIyOS1iYmIxLTQwNzcxNDVhODkxMRgAIAAoADDtrvOj8jA4oLHzo/IwQKCx86PyMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ3M2I4ZWNhYS1iNzViLTU3NjAtOTY5Mi1lNWM0YTg3ZDBkM2IYACAAKAAw867zo/IwOJ+y86PyMECfsvOj8jBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

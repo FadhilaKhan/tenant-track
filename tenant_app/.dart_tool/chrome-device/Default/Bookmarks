@@ -1,0 +1,66 @@
+{
+   "checksum": "9685b9ad408df195ba556b81c313040b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324886829493622",
+            "date_last_used": "0",
+            "guid": "779d9e3f-97d8-47c9-b706-d23d106a6afc",
+            "id": "6",
+            "name": "system analysis .pdf",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Documents/Software/System%20analysis%20and%20design/system%20analysis%20.pdf"
+         }, {
+            "date_added": "13369145079513053",
+            "date_last_used": "0",
+            "guid": "d9d53b27-37e5-49b3-9b63-57f0023da528",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kaamil.docx - Microsoft Word Online",
+            "type": "url",
+            "url": "https://onedrive.live.com/edit?action=editnew&id=C09392C48091E31!9754&resid=C09392C48091E31!9754&ithint=file%2cdocx&ct=1724578022681&wdNewAndOpenCt=1724578021307&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=48a8fe93-7e9f-4b68-bb4b-7047f3afc4f0&wdo=2&cid=0c09392c48091e31"
+         }, {
+            "date_added": "13384542656773196",
+            "date_last_used": "0",
+            "guid": "80f7a844-8237-4e5c-a611-a62d886dbcae",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://go.microsoft.com/fwlink/?LinkID=2162043"
+         } ],
+         "date_added": "13394188401388225",
+         "date_last_used": "0",
+         "date_modified": "13384542656773196",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13394188401388229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13394188401388231",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
